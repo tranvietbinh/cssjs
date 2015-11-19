@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://dogonoithatbuonmathuot.blogspot.com' target='_blank'><img src='http://dogolangnghe.vn/wp-content/uploads/2015/09/do-go.jpg' width='500px'/>Đào tạo seo chuyên sâu</a>. Học tại nhà Linh Nguyễn. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://dogonoithatbuonmathuot.blogspot.com' target='_blank'><img src='http://dogolangnghe.vn/wp-content/uploads/2015/09/do-go.jpg' width='500px'/>Kệ bếp 100% gỗ tự nhiên</a>. Liên hệ : Mr Bình 0988400046. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
